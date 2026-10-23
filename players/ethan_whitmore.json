@@ -1,0 +1,85 @@
+{
+  "name": "Ethan Whitmore",
+  "age": 16,
+  "nationality": "England",
+  "overall": 80,
+  "role": "CM / LCM; Ronaldo's box-to-box No.8 project",
+  "canon": [
+    "Natural CAM originally; Ronaldo moved him deeper.",
+    "Assist vs Arsenal.",
+    "Champions League POTM vs Malmö.",
+    "Carabao Cup goal vs Nottingham Forest.",
+    "Two assists in 4-0 win at Liverpool.",
+    "Champions League winner vs RB Leipzig.",
+    "Goal + assist, 9.5 rating in 6-2 win at Leeds.",
+    "Played 80 minutes vs Bayern in 2-2 draw."
+  ],
+  "metrics": {
+    "football_reputation": {
+      "previous": 80,
+      "current": 81,
+      "peak": 81
+    },
+    "general_public_fame": {
+      "previous": 74,
+      "current": 75,
+      "peak": 75
+    },
+    "wonderkid_hype": {
+      "previous": 92,
+      "current": 92,
+      "peak": 93
+    },
+    "ronaldo_trust": {
+      "previous": 95,
+      "current": 96,
+      "peak": 96
+    },
+    "united_fan_approval": {
+      "previous": 86,
+      "current": 91,
+      "peak": 91
+    },
+    "commercial_interest": {
+      "previous": 55,
+      "current": 67,
+      "peak": 67
+    },
+    "england_hype": {
+      "previous": 70,
+      "current": 79,
+      "peak": 79
+    },
+    "legacy_trajectory": {
+      "previous": 66,
+      "current": 67,
+      "peak": 67
+    },
+    "career_momentum": {
+      "previous": null,
+      "current": 86,
+      "peak": 86
+    },
+    "market_heat": {
+      "previous": null,
+      "current": 72,
+      "peak": 72
+    },
+    "fan_attachment": {
+      "previous": null,
+      "current": 84,
+      "peak": 84
+    },
+    "pressure": {
+      "previous": null,
+      "current": 58,
+      "peak": 58,
+      "direction": "lower_better"
+    },
+    "star_power": {
+      "previous": null,
+      "current": 70,
+      "peak": 70
+    }
+  }
+}
