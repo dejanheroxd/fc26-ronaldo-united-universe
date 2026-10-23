@@ -1,0 +1,54 @@
+{
+  "name": "Cristiano Ronaldo",
+  "club": "Manchester United",
+  "context": "First major coaching job; third Manchester United chapter after two playing spells.",
+  "metrics": {
+    "manager_reputation": {
+      "previous": 81,
+      "current": 82,
+      "peak": 82
+    },
+    "tactical_credibility": {
+      "previous": 81,
+      "current": 83,
+      "peak": 83
+    },
+    "dressing_room_authority": {
+      "previous": 92,
+      "current": 93,
+      "peak": 93
+    },
+    "fan_approval": {
+      "previous": 92,
+      "current": 93,
+      "peak": 93
+    },
+    "media_pressure": {
+      "previous": 56,
+      "current": 52,
+      "peak": 56,
+      "direction": "lower_better"
+    },
+    "global_managerial_hype": {
+      "previous": 95,
+      "current": 95,
+      "peak": 95
+    },
+    "job_security": {
+      "previous": 93,
+      "current": 95,
+      "peak": 95
+    }
+  },
+  "signature_tactic": {
+    "name": "Tactic A",
+    "formation": "4-4-1-1 Midfield",
+    "build_up": "Balanced",
+    "defensive_approach": "High",
+    "midfield": {
+      "Tielemans": "Deep-Lying Playmaker / security",
+      "Whitmore": "Box-to-Box / connector-runner",
+      "Bruno": "Playmaker / final-third creator"
+    }
+  }
+}
