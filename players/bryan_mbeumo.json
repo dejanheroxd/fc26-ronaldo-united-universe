@@ -1,0 +1,59 @@
+{
+  "name": "Bryan Mbeumo",
+  "role": "Senior forward / reliable finisher",
+  "canon": [
+    "84' winner vs Malmö",
+    "85' equalizer vs Como",
+    "Brace vs Brighton",
+    "Winner vs Newcastle",
+    "1G2A and 10.0 vs Leeds",
+    "Scored vs Bayern"
+  ],
+  "metrics": {
+    "football_reputation": {
+      "previous": null,
+      "current": 86,
+      "peak": 86
+    },
+    "general_public_fame": {
+      "previous": null,
+      "current": 74,
+      "peak": 74
+    },
+    "ronaldo_trust": {
+      "previous": null,
+      "current": 94,
+      "peak": 94
+    },
+    "united_fan_approval": {
+      "previous": null,
+      "current": 91,
+      "peak": 91
+    },
+    "commercial_interest": {
+      "previous": null,
+      "current": 72,
+      "peak": 72
+    },
+    "confidence": {
+      "previous": null,
+      "current": 91,
+      "peak": 91
+    },
+    "pl_star_status": {
+      "previous": null,
+      "current": 86,
+      "peak": 86
+    },
+    "fan_attachment": {
+      "previous": null,
+      "current": 89,
+      "peak": 89
+    },
+    "career_momentum": {
+      "previous": null,
+      "current": 92,
+      "peak": 92
+    }
+  }
+}
