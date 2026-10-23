@@ -11,49 +11,56 @@
   ],
   "metrics": {
     "football_reputation": {
-      "previous": null,
+      "previous": 86,
       "current": 86,
       "peak": 86
     },
     "general_public_fame": {
-      "previous": null,
+      "previous": 74,
       "current": 74,
       "peak": 74
     },
     "ronaldo_trust": {
-      "previous": null,
-      "current": 94,
+      "previous": 94,
+      "current": 93,
       "peak": 94
     },
     "united_fan_approval": {
-      "previous": null,
-      "current": 91,
+      "previous": 91,
+      "current": 89,
       "peak": 91
     },
     "commercial_interest": {
-      "previous": null,
+      "previous": 72,
       "current": 72,
       "peak": 72
     },
     "confidence": {
-      "previous": null,
-      "current": 91,
+      "previous": 91,
+      "current": 85,
       "peak": 91
     },
     "pl_star_status": {
-      "previous": null,
+      "previous": 86,
       "current": 86,
       "peak": 86
     },
     "fan_attachment": {
-      "previous": null,
+      "previous": 89,
       "current": 89,
       "peak": 89
     },
     "career_momentum": {
-      "previous": null,
-      "current": 92,
+      "previous": 92,
+      "current": 86,
       "peak": 92
     }
+  },
+  "last_match": {
+    "opponent": "Arsenal",
+    "result": "L 1-2",
+    "rating": 6.3,
+    "goals": 0,
+    "assists": 0
   }
 }
