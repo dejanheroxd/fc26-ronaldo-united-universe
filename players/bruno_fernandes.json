@@ -1,0 +1,58 @@
+{
+  "name": "Bruno Fernandes",
+  "role": "Captain / CAM / senior creative pillar",
+  "canon": [
+    "Brace vs Arsenal",
+    "Scored vs Manchester City, Chelsea, Brentford and Liverpool",
+    "Scored vs Preston",
+    "Scored vs Bayern",
+    "Two goals vs Leeds"
+  ],
+  "metrics": {
+    "football_reputation": {
+      "previous": null,
+      "current": 92,
+      "peak": 92
+    },
+    "general_public_fame": {
+      "previous": null,
+      "current": 88,
+      "peak": 88
+    },
+    "ronaldo_trust": {
+      "previous": null,
+      "current": 97,
+      "peak": 97
+    },
+    "united_fan_approval": {
+      "previous": null,
+      "current": 94,
+      "peak": 94
+    },
+    "commercial_interest": {
+      "previous": null,
+      "current": 84,
+      "peak": 84
+    },
+    "confidence": {
+      "previous": null,
+      "current": 87,
+      "peak": 87
+    },
+    "pl_star_status": {
+      "previous": null,
+      "current": 93,
+      "peak": 93
+    },
+    "fan_attachment": {
+      "previous": null,
+      "current": 96,
+      "peak": 96
+    },
+    "career_momentum": {
+      "previous": null,
+      "current": 84,
+      "peak": 84
+    }
+  }
+}
