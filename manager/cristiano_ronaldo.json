@@ -4,39 +4,39 @@
   "context": "First major coaching job; third Manchester United chapter after two playing spells.",
   "metrics": {
     "manager_reputation": {
-      "previous": 81,
-      "current": 82,
+      "previous": 82,
+      "current": 81,
       "peak": 82
     },
     "tactical_credibility": {
-      "previous": 81,
-      "current": 83,
+      "previous": 83,
+      "current": 80,
       "peak": 83
     },
     "dressing_room_authority": {
-      "previous": 92,
+      "previous": 93,
       "current": 93,
       "peak": 93
     },
     "fan_approval": {
-      "previous": 92,
-      "current": 93,
+      "previous": 93,
+      "current": 88,
       "peak": 93
     },
     "media_pressure": {
-      "previous": 56,
-      "current": 52,
-      "peak": 56,
+      "previous": 52,
+      "current": 68,
+      "peak": 68,
       "direction": "lower_better"
     },
     "global_managerial_hype": {
       "previous": 95,
-      "current": 95,
+      "current": 91,
       "peak": 95
     },
     "job_security": {
-      "previous": 93,
-      "current": 95,
+      "previous": 95,
+      "current": 93,
       "peak": 95
     }
   },
@@ -50,5 +50,6 @@
       "Whitmore": "Box-to-Box / connector-runner",
       "Bruno": "Playmaker / final-third creator"
     }
-  }
+  },
+  "last_match_note": "Arsenal 2-1 United: only two United shots; third straight major fixture without a win after City loss and Bayern draw. Chance creation is now a live tactical concern."
 }
