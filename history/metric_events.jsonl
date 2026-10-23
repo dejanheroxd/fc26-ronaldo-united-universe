@@ -1,0 +1,17 @@
+{"entity":"Ethan Whitmore","metric":"football_recognition","previous":72,"current":79,"event":"earlier complete tracker snapshot"}
+{"entity":"Ethan Whitmore","metric":"general_public_fame","previous":39,"current":46,"event":"earlier complete tracker snapshot"}
+{"entity":"Ethan Whitmore","metric":"wonderkid_hype","previous":87,"current":93,"event":"earlier complete tracker snapshot"}
+{"entity":"Ethan Whitmore","metric":"ronaldo_trust","previous":89,"current":92,"event":"earlier complete tracker snapshot"}
+{"entity":"Ethan Whitmore","metric":"football_reputation","previous":80,"current":81,"event":"later tracker snapshot"}
+{"entity":"Ethan Whitmore","metric":"general_public_fame","previous":74,"current":75,"event":"later tracker snapshot"}
+{"entity":"Ethan Whitmore","metric":"wonderkid_hype","previous":92,"current":92,"event":"later tracker snapshot"}
+{"entity":"Ethan Whitmore","metric":"ronaldo_trust","previous":95,"current":96,"event":"later tracker snapshot"}
+{"entity":"Rafael Costa","metric":"football_recognition","previous":71,"current":77,"event":"last complete reliable tracker"}
+{"entity":"Rafael Costa","metric":"general_public_fame","previous":43,"current":48,"event":"last complete reliable tracker"}
+{"entity":"Rafael Costa","metric":"wonderkid_hype","previous":82,"current":86,"event":"last complete reliable tracker"}
+{"entity":"Rafael Costa","metric":"ronaldo_trust","previous":84,"current":87,"event":"last complete reliable tracker"}
+{"entity":"Rafael Costa","metric":"confidence","previous":69,"current":80,"event":"last complete reliable tracker"}
+{"entity":"Cristiano Ronaldo","metric":"manager_reputation","previous":81,"current":82,"event":"latest full tracker before Arsenal"}
+{"entity":"Cristiano Ronaldo","metric":"tactical_credibility","previous":81,"current":83,"event":"latest full tracker before Arsenal"}
+{"entity":"Manchester United","metric":"title_belief","previous":82,"current":88,"event":"latest full tracker before Arsenal"}
+{"entity":"Manchester United","metric":"cultural_restoration","previous":69,"current":72,"event":"latest full tracker before Arsenal"}
