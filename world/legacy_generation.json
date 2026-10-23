@@ -1,0 +1,71 @@
+{
+  "rule": "Famous surnames do not guarantee elite outcomes. Game results decide development.",
+  "known_players": [
+    {
+      "name": "Cristiano Ronaldo Jr.",
+      "age": 18,
+      "position": "ST",
+      "club": "Sunderland",
+      "status": "on loan",
+      "parent_club": null
+    },
+    {
+      "name": "Thiago Messi",
+      "age": 19,
+      "position": "CAM",
+      "club": "Barcelona",
+      "release_clause_usd": 224000000
+    },
+    {
+      "name": "João Mendes",
+      "age": 20,
+      "position": "RW/LW/RM",
+      "club": "Grazer AK",
+      "status": "on loan"
+    },
+    {
+      "name": "Benjamin Agüero",
+      "age": 19,
+      "position": "ST",
+      "club": "Celta Vigo",
+      "status": "on loan"
+    },
+    {
+      "name": "Daniel Maldini",
+      "age": 26,
+      "position": "CAM",
+      "club": "AC Milan"
+    },
+    {
+      "name": "Shaqueel van Persie",
+      "age": 21,
+      "position": "ST",
+      "club": "Feyenoord",
+      "tag": "Has Potential To Be Special"
+    },
+    {
+      "name": "Arthur Pelé",
+      "age": 18,
+      "position": "CAM",
+      "club": "AS Monaco",
+      "tag": "Has Potential To Be Special"
+    },
+    {
+      "name": "Elyaz Zidane",
+      "age": 22,
+      "position": "CB",
+      "club": "RC Lens"
+    }
+  ],
+  "other_family_names_in_universe": [
+    "Kai Rooney",
+    "Romeo Beckham",
+    "Maxim Gullit",
+    "Isaac Drogba",
+    "Noah Klose",
+    "Jaden Heskey",
+    "Mathis Eboué",
+    "Etienne Eto'o",
+    "Leon Dinho"
+  ]
+}
