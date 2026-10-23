@@ -1,0 +1,66 @@
+{
+  "name": "Jeremie Frimpong",
+  "role": "RB / attacking fullback",
+  "transfer": {
+    "from": "Liverpool",
+    "fee_usd": 46000000
+  },
+  "canon": [
+    "Signed from Liverpool for $46m.",
+    "First shown United match after the transfer was away at Arsenal; rated 7.0."
+  ],
+  "last_match": {
+    "opponent": "Arsenal",
+    "result": "L 1-2",
+    "rating": 7,
+    "goals": 0,
+    "assists": 0
+  },
+  "metrics": {
+    "football_reputation": {
+      "previous": null,
+      "current": 86,
+      "peak": 86
+    },
+    "general_public_fame": {
+      "previous": null,
+      "current": 78,
+      "peak": 78
+    },
+    "ronaldo_trust": {
+      "previous": null,
+      "current": 79,
+      "peak": 79
+    },
+    "united_fan_approval": {
+      "previous": null,
+      "current": 83,
+      "peak": 83
+    },
+    "commercial_interest": {
+      "previous": null,
+      "current": 76,
+      "peak": 76
+    },
+    "confidence": {
+      "previous": null,
+      "current": 82,
+      "peak": 82
+    },
+    "pl_star_status": {
+      "previous": null,
+      "current": 79,
+      "peak": 79
+    },
+    "rival_heat": {
+      "previous": null,
+      "current": 94,
+      "peak": 94
+    },
+    "career_momentum": {
+      "previous": null,
+      "current": 83,
+      "peak": 83
+    }
+  }
+}
