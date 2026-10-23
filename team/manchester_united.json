@@ -1,0 +1,47 @@
+{
+  "name": "Manchester United",
+  "cultural_goal": "Move from 'United lose = everybody laughs' to 'United lose = everybody is surprised.'",
+  "metrics": {
+    "title_belief": {
+      "previous": 82,
+      "current": 88,
+      "peak": 88
+    },
+    "opponent_fear": {
+      "previous": 80,
+      "current": 83,
+      "peak": 83
+    },
+    "dressing_room_belief": {
+      "previous": 91,
+      "current": 94,
+      "peak": 94
+    },
+    "fan_optimism": {
+      "previous": 90,
+      "current": 94,
+      "peak": 94
+    },
+    "global_buzz": {
+      "previous": 91,
+      "current": 93,
+      "peak": 93
+    },
+    "meme_club_perception": {
+      "previous": 21,
+      "current": 18,
+      "peak": 21,
+      "direction": "lower_better"
+    },
+    "tactical_confidence": {
+      "previous": 78,
+      "current": 82,
+      "peak": 82
+    },
+    "cultural_restoration": {
+      "previous": 69,
+      "current": 72,
+      "peak": 72
+    }
+  }
+}
