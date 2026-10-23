@@ -1,0 +1,80 @@
+{
+  "name": "Rafael Costa",
+  "age": 16,
+  "nationality": "Portugal",
+  "overall": 77,
+  "preferred_foot": "Right",
+  "role": "LW converted to LM for Ronaldo's structure",
+  "canon": [
+    "Real Madrid bid $72.4m earlier in the season; United rejected it.",
+    "89th-minute equalizer vs Fulham.",
+    "Won penalty in 2-0 away derby win at Manchester City.",
+    "Tore hamstring in October and later returned.",
+    "LM conversion completed in late December.",
+    "Goal + assist, 8.5 rating in 6-2 win at Leeds."
+  ],
+  "metrics": {
+    "football_recognition": {
+      "previous": 71,
+      "current": 77,
+      "peak": 77
+    },
+    "general_public_fame": {
+      "previous": 43,
+      "current": 48,
+      "peak": 48
+    },
+    "wonderkid_hype": {
+      "previous": 82,
+      "current": 86,
+      "peak": 86
+    },
+    "ronaldo_trust": {
+      "previous": 84,
+      "current": 87,
+      "peak": 87
+    },
+    "confidence": {
+      "previous": 69,
+      "current": 80,
+      "peak": 80
+    },
+    "united_fan_approval": {
+      "previous": 77,
+      "current": 83,
+      "peak": 83
+    },
+    "commercial_interest": {
+      "previous": 58,
+      "current": 63,
+      "peak": 63
+    },
+    "career_momentum": {
+      "previous": null,
+      "current": 68,
+      "peak": 68
+    },
+    "market_heat": {
+      "previous": null,
+      "current": 74,
+      "peak": 74
+    },
+    "fan_attachment": {
+      "previous": null,
+      "current": 75,
+      "peak": 75
+    },
+    "pressure": {
+      "previous": null,
+      "current": 64,
+      "peak": 64,
+      "direction": "lower_better"
+    },
+    "star_power": {
+      "previous": null,
+      "current": 73,
+      "peak": 73
+    }
+  },
+  "note": "Older partial tracker snapshots conflict with this complete snapshot; see conflicts.json."
+}
