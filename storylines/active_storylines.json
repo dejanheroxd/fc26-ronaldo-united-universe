@@ -2,8 +2,8 @@
   "active": [
     {
       "id": "title_race",
-      "heat": 92,
-      "state": "United are 2nd on 45 points, three behind Crystal Palace before Arsenal away."
+      "heat": 96,
+      "state": "United remain on 45 points after 23 league games; Arsenal move to 44. Palace were on 48 before the rest of the matchday was known."
     },
     {
       "id": "whitmore_breakthrough",
@@ -22,13 +22,18 @@
     },
     {
       "id": "ronaldo_tactical_credibility",
-      "heat": 79,
-      "state": "Anfield established credibility; compact-block issues and the recent City loss keep scrutiny alive."
+      "heat": 90,
+      "state": "City 0-1, Bayern 2-2, Arsenal 1-2: United are winless across three major fixtures, and the Arsenal game produced only two shots."
     },
     {
       "id": "frimpong_arrival",
-      "heat": 68,
-      "state": "Jeremie Frimpong signed from Liverpool for $46m as major RB competition/succession for Dalot."
+      "heat": 76,
+      "state": "Frimpong's first shown United match after the $46m Liverpool transfer: started at RB away to Arsenal and rated 7.0."
+    },
+    {
+      "id": "chance_creation_problem",
+      "heat": 91,
+      "state": "The recurring low-volume attack has become a major live storyline. United produced only two shots at Arsenal after earlier low-block and finishing problems."
     }
   ]
 }
