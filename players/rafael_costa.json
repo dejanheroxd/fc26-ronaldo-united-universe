@@ -11,70 +11,78 @@
     "Won penalty in 2-0 away derby win at Manchester City.",
     "Tore hamstring in October and later returned.",
     "LM conversion completed in late December.",
-    "Goal + assist, 8.5 rating in 6-2 win at Leeds."
+    "Goal + assist, 8.5 rating in 6-2 win at Leeds.",
+    "Rated 6.6 away at Arsenal in the 2-1 loss; no goal or assist."
   ],
   "metrics": {
     "football_recognition": {
-      "previous": 71,
+      "previous": 77,
       "current": 77,
       "peak": 77
     },
     "general_public_fame": {
-      "previous": 43,
+      "previous": 48,
       "current": 48,
       "peak": 48
     },
     "wonderkid_hype": {
-      "previous": 82,
-      "current": 86,
+      "previous": 86,
+      "current": 84,
       "peak": 86
     },
     "ronaldo_trust": {
-      "previous": 84,
-      "current": 87,
+      "previous": 87,
+      "current": 86,
       "peak": 87
     },
     "confidence": {
-      "previous": 69,
-      "current": 80,
+      "previous": 80,
+      "current": 76,
       "peak": 80
     },
     "united_fan_approval": {
-      "previous": 77,
-      "current": 83,
+      "previous": 83,
+      "current": 82,
       "peak": 83
     },
     "commercial_interest": {
-      "previous": 58,
+      "previous": 63,
       "current": 63,
       "peak": 63
     },
     "career_momentum": {
-      "previous": null,
-      "current": 68,
+      "previous": 68,
+      "current": 64,
       "peak": 68
     },
     "market_heat": {
-      "previous": null,
-      "current": 74,
+      "previous": 74,
+      "current": 72,
       "peak": 74
     },
     "fan_attachment": {
-      "previous": null,
+      "previous": 75,
       "current": 75,
       "peak": 75
     },
     "pressure": {
-      "previous": null,
-      "current": 64,
-      "peak": 64,
+      "previous": 64,
+      "current": 68,
+      "peak": 68,
       "direction": "lower_better"
     },
     "star_power": {
-      "previous": null,
-      "current": 73,
+      "previous": 73,
+      "current": 72,
       "peak": 73
     }
   },
-  "note": "Older partial tracker snapshots conflict with this complete snapshot; see conflicts.json."
+  "note": "Older partial tracker snapshots conflict with this complete snapshot; see conflicts.json.",
+  "last_match": {
+    "opponent": "Arsenal",
+    "result": "L 1-2",
+    "rating": 6.6,
+    "goals": 0,
+    "assists": 0
+  }
 }
