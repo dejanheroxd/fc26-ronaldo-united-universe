@@ -1,0 +1,75 @@
+{
+  "name": "Pedro Neto",
+  "overall": 81,
+  "role": "RM/RW attacking option",
+  "canon": [
+    "Joined United on Jan 1 via completed pre-contract shown in game.",
+    "Scored on his first shown United match vs Coventry after coming on at half-time.",
+    "Assisted Bruno and rated 8.3 away at Arsenal despite the 2-1 defeat."
+  ],
+  "last_match": {
+    "opponent": "Arsenal",
+    "result": "L 1-2",
+    "rating": 8.3,
+    "minutes": 39,
+    "goals": 0,
+    "assists": 1,
+    "shots": 1,
+    "shot_accuracy": 100,
+    "passes": 13,
+    "pass_accuracy": 69,
+    "dribbles": 14,
+    "dribble_success": 93,
+    "possession_won": 2,
+    "possession_lost": 5,
+    "distance_km": 5.8,
+    "sprint_km": 4
+  },
+  "metrics": {
+    "football_reputation": {
+      "previous": null,
+      "current": 82,
+      "peak": 82
+    },
+    "general_public_fame": {
+      "previous": null,
+      "current": 72,
+      "peak": 72
+    },
+    "ronaldo_trust": {
+      "previous": null,
+      "current": 81,
+      "peak": 81
+    },
+    "united_fan_approval": {
+      "previous": null,
+      "current": 84,
+      "peak": 84
+    },
+    "commercial_interest": {
+      "previous": null,
+      "current": 70,
+      "peak": 70
+    },
+    "confidence": {
+      "previous": null,
+      "current": 86,
+      "peak": 86
+    },
+    "pl_star_status": {
+      "previous": null,
+      "current": 78,
+      "peak": 78
+    },
+    "career_momentum": {
+      "previous": null,
+      "current": 88,
+      "peak": 88
+    },
+    "fan_attachment": {
+      "previous": null,
+      "current": 70,
+      "peak": 70
+    }
+  }
+}
