@@ -1,0 +1,34 @@
+{
+  "active": [
+    {
+      "id": "title_race",
+      "heat": 92,
+      "state": "United are 2nd on 45 points, three behind Crystal Palace before Arsenal away."
+    },
+    {
+      "id": "whitmore_breakthrough",
+      "heat": 88,
+      "state": "Whitmore is no longer treated only as a novelty; he is a genuine first-team midfield piece."
+    },
+    {
+      "id": "rafael_reinvention",
+      "heat": 74,
+      "state": "LM conversion is complete; next phase is turning tactical fit into production and OVR growth."
+    },
+    {
+      "id": "cultural_restoration",
+      "heat": 84,
+      "state": "United losses now carry more surprise than earlier in the project."
+    },
+    {
+      "id": "ronaldo_tactical_credibility",
+      "heat": 79,
+      "state": "Anfield established credibility; compact-block issues and the recent City loss keep scrutiny alive."
+    },
+    {
+      "id": "frimpong_arrival",
+      "heat": 68,
+      "state": "Jeremie Frimpong signed from Liverpool for $46m as major RB competition/succession for Dalot."
+    }
+  ]
+}
