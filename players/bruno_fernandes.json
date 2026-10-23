@@ -6,53 +6,61 @@
     "Scored vs Manchester City, Chelsea, Brentford and Liverpool",
     "Scored vs Preston",
     "Scored vs Bayern",
-    "Two goals vs Leeds"
+    "Two goals vs Leeds",
+    "Scored United's only goal in the 2-1 away loss at Arsenal; rated 7.3."
   ],
   "metrics": {
     "football_reputation": {
-      "previous": null,
+      "previous": 92,
       "current": 92,
       "peak": 92
     },
     "general_public_fame": {
-      "previous": null,
+      "previous": 88,
       "current": 88,
       "peak": 88
     },
     "ronaldo_trust": {
-      "previous": null,
+      "previous": 97,
       "current": 97,
       "peak": 97
     },
     "united_fan_approval": {
-      "previous": null,
-      "current": 94,
-      "peak": 94
+      "previous": 94,
+      "current": 95,
+      "peak": 95
     },
     "commercial_interest": {
-      "previous": null,
+      "previous": 84,
       "current": 84,
       "peak": 84
     },
     "confidence": {
-      "previous": null,
-      "current": 87,
-      "peak": 87
+      "previous": 87,
+      "current": 88,
+      "peak": 88
     },
     "pl_star_status": {
-      "previous": null,
+      "previous": 93,
       "current": 93,
       "peak": 93
     },
     "fan_attachment": {
-      "previous": null,
+      "previous": 96,
       "current": 96,
       "peak": 96
     },
     "career_momentum": {
-      "previous": null,
-      "current": 84,
-      "peak": 84
+      "previous": 84,
+      "current": 86,
+      "peak": 86
     }
+  },
+  "last_match": {
+    "opponent": "Arsenal",
+    "result": "L 1-2",
+    "rating": 7.3,
+    "goals": 1,
+    "assists": 0
   }
 }
