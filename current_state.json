@@ -1,0 +1,73 @@
+{
+  "ui_season": "2025/26",
+  "story_canon_season": "2029/30",
+  "club": "Manchester United",
+  "manager": "Cristiano Ronaldo",
+  "next_fixture": {
+    "competition": "Premier League",
+    "home": "Arsenal",
+    "away": "Manchester United",
+    "recommendation": "PLAY"
+  },
+  "premier_league": {
+    "Manchester_United": {
+      "played": 22,
+      "points": 45,
+      "position": 2,
+      "gf": 36,
+      "ga": 17,
+      "gd": 19
+    },
+    "Crystal_Palace": {
+      "played": 22,
+      "points": 48,
+      "position": 1
+    },
+    "Chelsea": {
+      "played": 22,
+      "points": 42,
+      "position": 3
+    },
+    "Arsenal": {
+      "played": 22,
+      "points": 41,
+      "position": 4
+    },
+    "Manchester_City": {
+      "played": 22,
+      "points": 39,
+      "position": 5
+    },
+    "Liverpool": {
+      "played": 22,
+      "points": 37,
+      "position": 6
+    }
+  },
+  "champions_league": {
+    "Manchester_United": {
+      "played": 7,
+      "won": 3,
+      "drawn": 3,
+      "lost": 1,
+      "gf": 10,
+      "ga": 6,
+      "gd": 4,
+      "points": 12,
+      "position": 10,
+      "next": "Villarreal CF"
+    }
+  },
+  "domestic_cups": {
+    "carabao_cup": "eliminated by Birmingham City on penalties after 0-0",
+    "fa_cup": "alive; beat Preston 1-0"
+  },
+  "rules": {
+    "no_restarts": true,
+    "game_results_are_facts": true,
+    "worldbuilding_does_not_prewrite_outcomes": true,
+    "recommend_mode_before_every_fixture": true,
+    "tracker_output_requires_previous_to_current": true,
+    "tracker_output_requires_all_active_metrics": true
+  }
+}
