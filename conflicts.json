@@ -1,0 +1,58 @@
+{
+  "rafael_tracker": {
+    "status": "historical inconsistency retained",
+    "preferred": "last complete reliable tracker",
+    "snapshots": [
+      {
+        "football_recognition": "71→77",
+        "general_public_fame": "43→48",
+        "wonderkid_hype": "82→86",
+        "ronaldo_trust": "84→87",
+        "confidence": "69→80",
+        "united_fan_approval": "77→83",
+        "commercial_interest": "58→63"
+      },
+      {
+        "fame": "63→63",
+        "wonderkid_hype": "84→83",
+        "ronaldo_trust": "78→78",
+        "note": "later partial tracker"
+      },
+      {
+        "fame": "53→55",
+        "football_reputation": "59→60",
+        "note": "later partial tracker"
+      }
+    ]
+  },
+  "whitmore_tracker": {
+    "status": "metric naming evolved",
+    "snapshots": [
+      {
+        "football_recognition": "72→79",
+        "general_public_fame": "39→46",
+        "wonderkid_hype": "87→93",
+        "ronaldo_trust": "89→92",
+        "united_fan_approval": "86→91",
+        "commercial_interest": "55→67",
+        "england_hype": "70→79",
+        "legacy_trajectory": "66→67"
+      },
+      {
+        "fame": "74→75",
+        "football_reputation": "80→81",
+        "wonderkid_hype": "92→92",
+        "ronaldo_trust": "95→96",
+        "note": "later partial snapshot"
+      }
+    ]
+  },
+  "pedro_neto_transfer": {
+    "status": "unresolved",
+    "evidence": [
+      "Earlier user canon described Neto as a $39m transfer.",
+      "Later Jan 1 inbox showed completed pre-contract and immediate availability."
+    ],
+    "rule": "Do not silently choose one version."
+  }
+}
